@@ -1,0 +1,343 @@
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\Models\POSMapping.json
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\AddonVNPAY.dll.config
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\AddonVNPAY.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\AddonVNPAY.pdb
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Framework.Core.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Platform.DomainObjects.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Retail.BusinessLogic.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Retail.Extensibility.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\CXSRetailPOS.exe
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.Data.v18.1.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.Utils.v18.1.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\Newtonsoft.Json.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\RestSharp.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\System.Json.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Platform.Globalization.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\NHibernate.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Platform.Data.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Platform.Runtime.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Platform.Core.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Payments.Core.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Hardware.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Retail.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Messaging.Core.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\WinFormHtmlEditor.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\Forecasting.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Platform.PassAPI.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\System.Data.SQLite.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\Ionic.Zip.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DPFPShrNET.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Platform.Security.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Platform.Xml.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\AutoMapper.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Retail.ViewModel.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Platform.UI.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Platform.UIComponents.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.XtraVerticalGrid.v18.1.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.XtraGrid.v18.1.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Retail.UIComponents.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Platform.UI.TouchScreen.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.XtraLayout.v18.1.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Platform.Commands.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Retail.DTO.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.XtraTreeList.v18.1.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DPFPGuiNET.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.SubSystem.Printing.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\Stimulsoft.Report.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\Kjs.AppLife.Update.Controller.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Retail.POSLogic.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Retail.Reports.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.BonusSkins.v18.1.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\iVendMetroSkin.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Retail.DataTransfer.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\Iesi.Collections.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\System.Reactive.Interfaces.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\Gibraltar.Agent.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\System.Reactive.Linq.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\System.Reactive.Core.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\Microsoft.mshtml.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.XtraBars.v18.1.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.XtraNavBar.v18.1.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.XtraPivotGrid.v18.1.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.XtraPrinting.v18.1.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.Tutorials.v18.1.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.XtraRichEdit.v18.1.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.SubSystem.Scheduler.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.Dashboard.v18.1.Core.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.DataAccess.v18.1.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.Dashboard.v18.1.Win.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.XtraPdfViewer.v18.1.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.RichEdit.v18.1.Core.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\CrystalDecisions.Shared.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\Stimulsoft.Report.Win.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.XtraReports.v18.1.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Hardware.OPOS.Service.Proxy.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Retail.ConsoleLogic.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.Office.v18.1.Core.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\FPS.VirtualKeyboard.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Platform.Win32.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\Stimulsoft.Base.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.PivotGrid.v18.1.Core.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.CodeParser.v18.1.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.Images.v18.1.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.Map.v18.1.Core.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.XtraMap.v18.1.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.XtraCharts.v18.1.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.XtraTreeMap.v18.1.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.XtraGauges.v18.1.Core.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.XtraGauges.v18.1.Win.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.Xpo.v18.1.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.Charts.v18.1.Core.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.XtraGauges.v18.1.Presets.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.DataAccess.v18.1.UI.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.Utils.v18.1.UI.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.XtraCharts.v18.1.Wizard.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.XtraCharts.v18.1.UI.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.Pdf.v18.1.Drawing.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\Stimulsoft.Controls.Win.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\Stimulsoft.Controls.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\CXSRetailPOS.xml
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\CXSRetailPOS.exe.config
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\Newtonsoft.Json.xml
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\bin\Debug\RestSharp.xml
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\obj\Debug\AddonVNPAY.csprojAssemblyReference.cache
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\obj\Debug\AddonVNPAY.csproj.CoreCompileInputs.cache
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\obj\Debug\AddonVNPAY.csproj.CopyComplete
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\obj\Debug\AddonVNPAY.dll
+D:\WORK\FTI\iVend Retail\Source\AddonVNPAY\AddonVNPAY\obj\Debug\AddonVNPAY.pdb
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.Dashboard.v18.1.Win.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\obj\Debug\AddonVNPAY.csproj.CopyComplete
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\Models\POSMapping.json
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\AddonVNPAY.dll.config
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\AddonVNPAY.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\AddonVNPAY.pdb
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Framework.Core.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Platform.DomainObjects.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Retail.BusinessLogic.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Retail.Extensibility.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\CXSRetailPOS.exe
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.Data.v18.1.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.Utils.v18.1.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\Newtonsoft.Json.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\RestSharp.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\System.Json.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Platform.Globalization.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\NHibernate.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Platform.Data.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Platform.Runtime.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Platform.Core.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Payments.Core.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Hardware.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Retail.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Messaging.Core.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\WinFormHtmlEditor.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\Forecasting.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Platform.PassAPI.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\System.Data.SQLite.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\Ionic.Zip.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DPFPShrNET.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Platform.Security.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Platform.Xml.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\AutoMapper.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Retail.ViewModel.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Platform.UI.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Platform.UIComponents.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.XtraVerticalGrid.v18.1.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.XtraGrid.v18.1.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Retail.UIComponents.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Platform.UI.TouchScreen.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.XtraLayout.v18.1.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Platform.Commands.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Retail.DTO.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.XtraTreeList.v18.1.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DPFPGuiNET.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.SubSystem.Printing.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\Stimulsoft.Report.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\Kjs.AppLife.Update.Controller.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Retail.POSLogic.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Retail.Reports.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.BonusSkins.v18.1.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\iVendMetroSkin.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Retail.DataTransfer.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\Iesi.Collections.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\System.Reactive.Interfaces.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\Gibraltar.Agent.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\System.Reactive.Linq.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\System.Reactive.Core.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\Microsoft.mshtml.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.XtraBars.v18.1.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.XtraNavBar.v18.1.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.XtraPivotGrid.v18.1.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.XtraPrinting.v18.1.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.Tutorials.v18.1.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.XtraRichEdit.v18.1.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.SubSystem.Scheduler.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.Dashboard.v18.1.Core.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.DataAccess.v18.1.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.XtraPdfViewer.v18.1.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.RichEdit.v18.1.Core.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\CrystalDecisions.Shared.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\Stimulsoft.Report.Win.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.XtraReports.v18.1.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Hardware.OPOS.Service.Proxy.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Retail.ConsoleLogic.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.Office.v18.1.Core.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\FPS.VirtualKeyboard.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Platform.Win32.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\Stimulsoft.Base.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.PivotGrid.v18.1.Core.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.CodeParser.v18.1.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.Images.v18.1.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.Map.v18.1.Core.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.XtraMap.v18.1.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.XtraCharts.v18.1.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.XtraTreeMap.v18.1.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.XtraGauges.v18.1.Core.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.XtraGauges.v18.1.Win.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.Xpo.v18.1.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.Charts.v18.1.Core.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.XtraGauges.v18.1.Presets.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.DataAccess.v18.1.UI.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.Utils.v18.1.UI.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.XtraCharts.v18.1.Wizard.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.XtraCharts.v18.1.UI.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.Pdf.v18.1.Drawing.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\Stimulsoft.Controls.Win.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\Stimulsoft.Controls.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\CXSRetailPOS.xml
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\CXSRetailPOS.exe.config
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\Newtonsoft.Json.xml
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\bin\Debug\RestSharp.xml
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\obj\Debug\AddonVNPAY.csprojAssemblyReference.cache
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\obj\Debug\AddonVNPAY.csproj.CoreCompileInputs.cache
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\obj\Debug\AddonVNPAY.dll
+D:\WORK\FTI\GIT FTI\IVEND-RETAIL\Source\AddonVNPAY\AddonVNPAY\obj\Debug\AddonVNPAY.pdb
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\Models\POSMapping.json
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\AddonVNPAY.dll.config
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\AddonVNPAY.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\AddonVNPAY.pdb
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Framework.Core.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Platform.Data.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Platform.DomainObjects.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Retail.BusinessLogic.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Retail.Extensibility.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\CXSRetailPOS.exe
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.Data.v18.1.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.Utils.v18.1.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\Newtonsoft.Json.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\RestSharp.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\System.Json.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Platform.Globalization.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\NHibernate.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Platform.Runtime.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Platform.Core.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Platform.Security.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Platform.Xml.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Payments.Core.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Hardware.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\WinFormHtmlEditor.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\Forecasting.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Platform.PassAPI.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\System.Data.SQLite.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\Ionic.Zip.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\DPFPShrNET.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\AutoMapper.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Platform.UI.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Platform.UIComponents.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.XtraVerticalGrid.v18.1.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.XtraGrid.v18.1.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Retail.UIComponents.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Platform.UI.TouchScreen.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.XtraLayout.v18.1.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Platform.Commands.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Retail.ViewModel.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Retail.DTO.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.XtraTreeList.v18.1.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\DPFPGuiNET.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.SubSystem.Printing.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\Stimulsoft.Report.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\Kjs.AppLife.Update.Controller.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Retail.POSLogic.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Retail.Reports.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.BonusSkins.v18.1.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\iVendMetroSkin.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Retail.DataTransfer.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\Iesi.Collections.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\System.Reactive.Interfaces.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\Gibraltar.Agent.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\System.Reactive.Linq.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\System.Reactive.Core.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Retail.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\Microsoft.mshtml.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.XtraBars.v18.1.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.XtraNavBar.v18.1.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.XtraPivotGrid.v18.1.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.XtraPrinting.v18.1.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.Tutorials.v18.1.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.XtraRichEdit.v18.1.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.SubSystem.Scheduler.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.Dashboard.v18.1.Core.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.DataAccess.v18.1.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.Dashboard.v18.1.Win.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.XtraPdfViewer.v18.1.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.RichEdit.v18.1.Core.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\CrystalDecisions.Shared.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\Stimulsoft.Report.Win.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.XtraReports.v18.1.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Hardware.OPOS.Service.Proxy.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Retail.ConsoleLogic.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.Office.v18.1.Core.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\FPS.VirtualKeyboard.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\CXS.Platform.Win32.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\Stimulsoft.Base.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.PivotGrid.v18.1.Core.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.CodeParser.v18.1.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.Images.v18.1.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.Map.v18.1.Core.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.XtraMap.v18.1.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.XtraCharts.v18.1.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.XtraTreeMap.v18.1.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.XtraGauges.v18.1.Core.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.XtraGauges.v18.1.Win.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.Xpo.v18.1.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.Charts.v18.1.Core.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.XtraGauges.v18.1.Presets.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.DataAccess.v18.1.UI.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.Utils.v18.1.UI.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.XtraCharts.v18.1.Wizard.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.XtraCharts.v18.1.UI.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\DevExpress.Pdf.v18.1.Drawing.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\Stimulsoft.Controls.Win.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\Stimulsoft.Controls.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\CXSRetailPOS.xml
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\CXSRetailPOS.exe.config
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\Newtonsoft.Json.xml
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\RestSharp.xml
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\bin\Debug\System.Json.xml
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\obj\Debug\AddonVNPAY.csproj.CoreCompileInputs.cache
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\obj\Debug\AddonVNPAY.csproj.CopyComplete
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\obj\Debug\AddonVNPAY.dll
+D:\FTI TECHNOLOGY JSC\Source iVend\SourceAddon\AddonVNPAY(new) - Copy\AddonVNPAY\AddonVNPAY\obj\Debug\AddonVNPAY.pdb

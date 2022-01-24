@@ -1,0 +1,32 @@
+<Configuration>
+  <NHibernateConfiguration>
+    <connectionprovider>NHibernate.Connection.DriverConnectionProvider</connectionprovider>
+    <dialect>NHibernate.Dialect.MsSql2005Dialect</dialect>
+    <driverclass>NHibernate.Driver.SqlClientDriver</driverclass>
+    <showsql>true</showsql>
+    <connectionstring>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAzMl/hYooCUyXC1VapStQEQQAAAACAAAAAAAQZgAAAAEAACAAAACqNgnxacDb2+8DKpy9HyFNhbzVSppoVm5+7nnPHyPC1QAAAAAOgAAAAAIAACAAAACeurfeakNYz5DFbTgBN4Un+9E6BhfTLDJXnNpcERncDWABAAA6j2SmPwRVJSyHga45GNsnmbaifjIr0LH5ucMhdmY1cAVfCx7Y3loOQBU0iTFZd7zr31QoHyer0gVxcN6ZxrZHAfmcLW1MH/8FVGO+pNb0VWBI5sGK9MtlYKYOXvRIntbFgtVJ1IIXbthRGhU5eqyQacwcg3ims/D3dhwmDFPYkaUtZzzs49VGGYv4EnswjKJIOhHbsHOtkqduTGv18wYo5UPEV/nrZQ7KtBH2DV4zuRYuqK4lCun6vrbYCaIPeXz6g7TcSxK/n+uhbngHi+kDlLjvlVTTTN7Ec2PLcqqwAZ+2mZh3+HESf27iYDj+YOe9L9Gws/vBOvn34USx18T1UGWDiWW6M39NJUeC74nOaCAmmqFEp+VEzide+0t7Wc3txH7aFPvSVyDPl7uJgWi0N7/CfbszKzrpqs+rI2N1g9fJYdF6GJ/QLb/y3AhXJoWihKTlNxqFxhl25OLhMePKQAAAAPsi6vZv4u02Wv6MCq942zYaWq0A9fxVy6IOzsNhJGLiMhwjPyh/xWEyI533d2JGDQIhRMr7BvtS4ll7lmfQQoc=</connectionstring>
+  </NHibernateConfiguration>
+  <ViewManagerConfiguration>
+    <ShowExtendedErrorInformation>true</ShowExtendedErrorInformation>
+    <ShowStackTrace>true</ShowStackTrace>
+  </ViewManagerConfiguration>
+  <LoyaltyConfiguration>
+    <ServiceIP Value="" />
+    <ServiceHostedWithName Value="" />
+    <ServiceNameSpace Value="" />
+  </LoyaltyConfiguration>
+  <ApplicationSettings>
+    <CloudHosting>false</CloudHosting>
+    <IsiVendCloud>false</IsiVendCloud>
+    <CloudAddress>
+    </CloudAddress>
+  </ApplicationSettings>
+  <SendInformation>true</SendInformation>
+  <IsOfflinePOS>False</IsOfflinePOS>
+  <SyncBatchSize>2000</SyncBatchSize>
+  <SyncPendingRecordWarning>15000</SyncPendingRecordWarning>
+  <SyncPendingRecordLoginResctict>25000</SyncPendingRecordLoginResctict>
+  <ShowDatabaseSelection>False</ShowDatabaseSelection>
+  <OfflineUpdates>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAzMl/hYooCUyXC1VapStQEQQAAAACAAAAAAAQZgAAAAEAACAAAAADeqR6sb5VQp1sObU/c3FZOF3TjTHFHkXeV7L4qRqeswAAAAAOgAAAAAIAACAAAABtdFJhucQFverOCyBltAaM0CQLAkPnNpcXU082XQvQGhAAAAA/0JunltI41sgmVcDdBnOKQAAAAOtVgLLjbN+icH+F886YJ4Uf8nXN9ha9YafaQChZJUb5bW+LM/+bCCGr9zkKmdrpwjBEUTilKsWzKddMyFLnQR8=</OfflineUpdates>
+  <OfflineConnectionString>Server=; Initial Catalog=; User Id=; Password=; Application Name=CXSPOS</OfflineConnectionString>
+</Configuration>
